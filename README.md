@@ -1,10 +1,3 @@
-Got it — you want **everything in one clean markdown file**, fully ready to paste into GitHub as a single `README.md`.
-
-Here is the **complete, fixed, and properly structured full markdown**:
-
----
-
-````markdown
 # Stateless Lego Server (REST API Fundamentals)
 
 A modern, high-performance, and lightweight stateless backend application built using Python and FastAPI. This project implements the core communication layer of the web by creating a local server, defining standard `GET` and `POST` routes, and handling structured JSON payloads.
@@ -162,14 +155,4 @@ You can:
 * Data is stored in-memory (not persistent database).
 * Ideal for beginners in FastAPI backend development.
 
-```
 
----
-
-If you want next upgrade, I can also:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- Or :contentReference[oaicite:2]{index=2}
-
-Just tell me 👍
-```
